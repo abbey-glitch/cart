@@ -2,4 +2,4 @@
 https://abbey-glitch.github.io/cart/
 
 
-sprightly-lolly-18b7a6.netlify.app
+https://sprightly-lolly-18b7a6.netlify.app
